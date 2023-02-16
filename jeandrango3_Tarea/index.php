@@ -74,32 +74,7 @@
 
 
 	?>
-<!--	<div class="container">
-		<h2 class="my-3">Ingresar datos de la figura</h2>
-	  <form>
-			<div class="form-group">
-			  <label for="figura">Seleccione una figura:</label>
-			  <select name="figura" id="figura" class="form-control" onchange="habilitarCampos()">
-					<option value="cuadrado">Cuadrado</option>
-					<option value="rectangulo">Rectángulo</option>
-					<option value="triangulo">Triángulo</option>
-				</select>
-			</div>
-			<div class="form-group">
-			  <label for="lado1">Lado 1:</label>
-				<input type="text" name="lado1" id="lado1" class="form-control" disabled>
-			</div>
-			<div class="form-group">
-			  <label for="lado2">Lado 2:</label>
-				<input type="text" name="lado2" id="lado2" class="form-control" disabled>
-			</div>
-			<div class="form-group">
-			  <label for="lado3">Lado 3:</label>
-				<input type="text" name="lado3" id="lado3" class="form-control" disabled>
-			</div>
-	  </form>
-	</div>
-	-->
+
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
