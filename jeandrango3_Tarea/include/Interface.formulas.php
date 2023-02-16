@@ -1,7 +1,7 @@
 <?php
 	interface formulas{
-			public function area();
+			public function calcularArea();
 			
-			public function perimetro();
+			public function calcularPerimetro();
 		}
 ?>
